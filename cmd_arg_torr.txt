@@ -1,1 +1,1 @@
-java CreateTorrent C:\\Users\\dkvhe\\OneDrive\\Documents\\vs_code\\CN_Project\\main\\hello.torrent https:\\jhvjvbjeh.verv 64 test_cn C:\Users\dkvhe\OneDrive\Documents\Mobile\MI\Spiderman_miles.mp4 C:\\Users\\dkvhe\\OneDrive\\Documents\\vs_code\\Java\\cn\\test\\Client.class .. vas .. test_create1 .. /191.168.212.197
+java CreateTorrent C:\\Users\\path\\hello.torrent https:\\jhvjvbjeh.verv 64 test_cn C:\Users\\path C:\\Users\\path .. vas .. test_create1 ..  /127.0.0.1
